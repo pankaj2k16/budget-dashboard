@@ -1,6 +1,6 @@
 # budget-dashboard
 Project for Buduget Management with capability of Integration with LLms andUser can analyse theire budget and can took cretical decision based on inteligence data report.
-(./public/budget.jpeg)
+![Budget](https://raw.githubusercontent.com/pankaj2k16/budget-dashboard/bugFixes/public/budget.jpeg)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
